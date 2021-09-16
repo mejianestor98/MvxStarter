@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4fDInjxiKFXROaQzkX4O/68rSQkOYm62yhguN/hReotaduuXdfs+WHi4fqGpbL6rCD6DaJqsHZiJ8wceCUtR/g==",
+  "dgSpecHash": "aHWi6YnB1yatJAVdW/7/K9eqZq/8NIFSZrWaYc87t/E/ApZ3YTFVOgQnxdTUoGnNV5xf9cH0rAD/pNnaDIH39A==",
   "success": true,
   "projectFilePath": "C:\\Users\\nesto\\Documents\\Freelance\\formation\\mvvm\\MVVMCross\\MvxStarter\\MvxStarter.Core\\MvxStarter.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nesto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\nesto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nesto\\.nuget\\packages\\mvvmcross\\8.0.2\\mvvmcross.8.0.2.nupkg.sha512",
     "C:\\Users\\nesto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
