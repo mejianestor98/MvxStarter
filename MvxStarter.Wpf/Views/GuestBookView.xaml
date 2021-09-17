@@ -17,11 +17,11 @@
             <TextBlock
                 Text="First Name"/>
             <TextBox
-                Text="{Binding FirstName, Mode=TwoWay}" Margin="0,0,0,15"/>
+                Text="{Binding FirstName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,15"/>
             <TextBlock
                 Text="Last Name"/>
             <TextBox
-                Text="{Binding LastName, Mode=TwoWay}" Margin="0,0,0,15"/>
+                Text="{Binding LastName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,15"/>
         </StackPanel>
     </Grid>
 </views:MvxWpfView>
