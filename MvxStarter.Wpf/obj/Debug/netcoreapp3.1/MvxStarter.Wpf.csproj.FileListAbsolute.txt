@@ -1,0 +1,5 @@
+C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Wpf\obj\Debug\netcoreapp3.1\MvxStarter.Wpf.csprojAssemblyReference.cache
+C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Wpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Wpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Wpf\obj\Debug\netcoreapp3.1\MvxStarter.Wpf_MarkupCompile.cache
+C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Wpf\obj\Debug\netcoreapp3.1\MvxStarter.Wpf_MarkupCompile.lref

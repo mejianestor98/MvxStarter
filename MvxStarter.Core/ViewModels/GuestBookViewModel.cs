@@ -10,6 +10,8 @@ namespace MvxStarter.Core.ViewModels
     public class GuestBookViewModel : MvxViewModel
     {
         private ObservableCollection<PersonModel> _people = new ObservableCollection<PersonModel>();
+        private string _firstName;
+        private string _lastName;
 
         public ObservableCollection<PersonModel> People
         {
@@ -17,16 +19,13 @@ namespace MvxStarter.Core.ViewModels
             set { SetProperty(ref _people, value); }
         }
 
-        private string _firstName;
-
         public string FirstName
         {
             get { return _firstName; }
             set { SetProperty(ref _firstName, value); }
         }
-
-        private string _lastName;
-
+        
+        
         public string LastName
         {
             get { return _lastName; }
