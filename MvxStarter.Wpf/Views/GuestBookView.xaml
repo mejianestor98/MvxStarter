@@ -13,6 +13,8 @@
         <StackPanel
                 Margin="10">
             <TextBlock
+                Text="{Binding FullName}" FontSize="30" Margin="0,0,20,0"/>
+            <TextBlock
                 Text="First Name"/>
             <TextBox
                 Text="{Binding FirstName, Mode=TwoWay}" Margin="0,0,0,15"/>

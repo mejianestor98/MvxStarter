@@ -5,16 +5,16 @@ winexe
 C#
 .cs
 C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Wpf\obj\Debug\netcoreapp3.1\
-MvxStarter.Wpf_2mu2y3qr_wpftmp
+MvxStarter.Wpf
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Wpf\App.xaml
-11151548125
+2-422023771
 
-5-297518901
-1921654412462
-MainWindow.xaml;
+5955404867
+202266766191
+MainWindow.xaml;Views\GuestBookView.xaml;
 
-True
+False
 

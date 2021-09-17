@@ -1,4 +1,8 @@
-﻿using System;
+﻿using MvvmCross.Platforms.Wpf.Presenters.Attributes;
+using MvvmCross.Platforms.Wpf.Views;
+using MvvmCross.ViewModels;
+using MvxStarter.Core.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -16,7 +20,9 @@ namespace MvxStarter.Wpf.Views
     /// <summary>
     /// Interaction logic for GuestBookView.xaml
     /// </summary>
-    public partial class GuestBookView : UserControl
+    [MvxContentPresentation]
+    [MvxViewFor(typeof(GuestBookViewModel))]
+    public partial class GuestBookView : MvxWpfView
     {
         public GuestBookView()
         {

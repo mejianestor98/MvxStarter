@@ -22,17 +22,25 @@ namespace MvxStarter.Core.ViewModels
         public string FirstName
         {
             get { return _firstName; }
-            set { SetProperty(ref _firstName, value); }
+            set 
+            {
+                SetProperty(ref _firstName, value);
+                RaisePropertyChanged(() => FullName);
+            }
         }
         
         
         public string LastName
         {
             get { return _lastName; }
-            set { SetProperty(ref _lastName, value); }
+            set 
+            {
+                SetProperty(ref _lastName, value);
+                RaisePropertyChanged(() => FullName);
+            }
         }
 
-
+        public string FullName => $"{FirstName} {LastName}";
 
 
 
