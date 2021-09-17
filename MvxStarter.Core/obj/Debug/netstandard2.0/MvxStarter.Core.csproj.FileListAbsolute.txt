@@ -6,3 +6,4 @@ C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarte
 C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.csproj.CoreCompileInputs.cache
 C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.dll
 C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.pdb
+C:\Users\nesto\Documents\Freelance\formation\mvvm\MVVMCross\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.csprojAssemblyReference.cache

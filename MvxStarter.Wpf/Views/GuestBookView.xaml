@@ -22,6 +22,14 @@
                 Text="Last Name"/>
             <TextBox
                 Text="{Binding LastName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,15"/>
+            <Button
+                Content="AddGuest"
+                Margin="0,0,10,0"
+                mvx:Bi.nd="Command AddGuestCommand"
+                IsEnabled="{Binding CanAddGuest}"/>
+            <DataGrid
+                ItemsSource="{Binding People}"
+                AutoGenerateColumns="True"/>
         </StackPanel>
     </Grid>
 </views:MvxWpfView>
